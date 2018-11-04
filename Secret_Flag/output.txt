@@ -1,0 +1,6 @@
+ffff ffc3 ffff ffdc ffff ffdd ffff ffdb
+ffff ffd7 ffff ffdc ffff ffdd ffff ffca
+ffff ffe7 ffff ffcb ffff ffcc ffff ffdd
+ffff ffde ffff ffd9 ffff ffd6 ffff ffd7
+ffff ff89 ffff ff89 ffff ff80 ffff ffe7
+ffff ff99 ffff ff99 ffff ffe7 ffff ffc5
